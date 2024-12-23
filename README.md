@@ -28,7 +28,8 @@ The following steps outline the process of loading and managing the data:
 6. Associate the article with the corresponding `TreeNode`.
 
 ![Workflow Diagram]
-https://files.oaiusercontent.com/file-XUE2pWNA1CCc3upHTaLr34?se=2024-12-23T21%3A35%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DScreenshot%25202024-12-23%2520at%25203.30.32%25E2%2580%25AFPM.png&sig=V3luXswiCbKRuLLpBDLytk7H199gu6vb8GkypLUJ2kc%3D![image](https://github.com/user-attachments/assets/7744967e-08b0-42a0-85a3-235977754ced)
+[https://files.oaiusercontent.com/file-XUE2pWNA1CCc3upHTaLr34?se=2024-12-23T21%3A35%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DScreenshot%25202024-12-23%2520at%25203.30.32%25E2%2580%25AFPM.png&sig=V3luXswiCbKRuLLpBDLytk7H199gu6vb8GkypLUJ2kc%3D![image](https://github.com/user-attachments/assets/2242a61a-84e3-476a-8856-eb031af22ce5)](https://files.oaiusercontent.com/file-XUE2pWNA1CCc3upHTaLr34?se=2024-12-23T21%3A35%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DScreenshot%25202024-12-23%2520at%25203.30.32%25E2%2580%25AFPM.png&sig=V3luXswiCbKRuLLpBDLytk7H199gu6vb8GkypLUJ2kc%3D)
+
 
 
 ---
