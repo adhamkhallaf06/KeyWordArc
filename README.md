@@ -20,6 +20,7 @@ KeyWordArc is an information retrieval system designed to efficiently store, org
 The system utilizes a **Binary Search Tree (BST)**, where each node represents a keyword, and a linked list stores articles associated with the keyword.
 
 TreeNode Diagram
+
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/74c4fdf1-d3f3-4681-b929-06b5bedf8b88" />
 
 ---
@@ -34,6 +35,7 @@ TreeNode Diagram
 6. If the keyword exists, associate the article with the existing node.
 
 Workflow Diagram
+
 <img width="871" alt="Screenshot%202024-12-23%20at%203 30 32%E2%80%AFPM" src="https://github.com/user-attachments/assets/682897ee-4860-4530-ac3d-7f90733d45b6" />
 
 ---
